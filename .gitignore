@@ -1,0 +1,10 @@
+.cproject
+.mxproject
+.project
+.settings/
+Debug/
+Drivers/
+Build/
+.vscode/.cortex-debug.peripherals.state.json
+.vscode/.cortex-debug.registers.state.json
+Src/main.c
