@@ -64,6 +64,8 @@ void Error_Handler(void);
 #define TX_GPIO_Port GPIOA
 #define RX_Pin GPIO_PIN_3
 #define RX_GPIO_Port GPIOA
+#define LED_Pin GPIO_PIN_4
+#define LED_GPIO_Port GPIOA
 #define SPK_SCL_Pin GPIO_PIN_9
 #define SPK_SCL_GPIO_Port GPIOA
 #define SPK_SDA_Pin GPIO_PIN_10
