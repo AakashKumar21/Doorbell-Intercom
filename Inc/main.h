@@ -66,14 +66,6 @@ void Error_Handler(void);
 #define RX_GPIO_Port GPIOA
 #define LED_Pin GPIO_PIN_4
 #define LED_GPIO_Port GPIOA
-#define BTN_Voice_Pin GPIO_PIN_5
-#define BTN_Voice_GPIO_Port GPIOA
-#define BTN_Ring_Pin GPIO_PIN_6
-#define BTN_Ring_GPIO_Port GPIOA
-#define LED_Ack_Pin GPIO_PIN_7
-#define LED_Ack_GPIO_Port GPIOA
-#define LED_Listen_Pin GPIO_PIN_1
-#define LED_Listen_GPIO_Port GPIOB
 #define SPK_SCL_Pin GPIO_PIN_9
 #define SPK_SCL_GPIO_Port GPIOA
 #define SPK_SDA_Pin GPIO_PIN_10
