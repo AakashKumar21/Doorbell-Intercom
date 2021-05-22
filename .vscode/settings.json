@@ -1,5 +1,10 @@
 {
     "files.associations": {
         "app.h": "c"
-    }
+    },
+    "stm32-for-vscode.openOCDPath": "C:\\EMBEDDED_TOOLS\\OPENOCD\\BIN\\OPENOCD.EXE",
+    "stm32-for-vscode.makePath": "C:\\EMBEDDED_TOOLS\\MAKE\\BIN\\MAKE.EXE",
+    "stm32-for-vscode.armToolchainPath": "C:\\EMBEDDED_TOOLS\\10_2020-Q4-MAJOR\\BIN",
+    "cortex-debug.armToolchainPath": "C:\\EMBEDDED_TOOLS\\10_2020-Q4-MAJOR\\BIN",
+    "cortex-debug.openocdPath": "C:\\EMBEDDED_TOOLS\\OPENOCD\\BIN\\OPENOCD.EXE"
 }
