@@ -1,2 +1,2 @@
-# Doorbell-Intercom
- Doorbell intercom made using stm32 and esp8266
+# Walkie-Talkie
+Two way voice communication using ESP8266 and STM32.
