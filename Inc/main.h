@@ -66,13 +66,16 @@ void Error_Handler(void);
 #define RX_GPIO_Port GPIOA
 #define LED_Pin GPIO_PIN_4
 #define LED_GPIO_Port GPIOA
+#define TALK_Pin GPIO_PIN_6
+#define TALK_GPIO_Port GPIOA
+#define TALK_EXTI_IRQn EXTI4_15_IRQn
+#define RING_Pin GPIO_PIN_7
+#define RING_GPIO_Port GPIOA
+#define RING_EXTI_IRQn EXTI4_15_IRQn
 #define SPK_SCL_Pin GPIO_PIN_9
 #define SPK_SCL_GPIO_Port GPIOA
 #define SPK_SDA_Pin GPIO_PIN_10
 #define SPK_SDA_GPIO_Port GPIOA
-#define TALK_Pin GPIO_PIN_13
-#define TALK_GPIO_PORT GPIOA
-
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
